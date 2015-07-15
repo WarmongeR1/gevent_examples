@@ -1,0 +1,3 @@
+Cython==0.22.1
+gevent==1.1a2
+greenlet==0.4.7
